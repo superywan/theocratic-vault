@@ -1,0 +1,11 @@
+.cm-contentContainer {
+				line-height: 1.70rem;
+}
+
+.markdown-source-view.mod-cm6 .cm-content > .cm-line {
+				padding-bottom: 12px !important;
+}
+
+body {
+				--list-spacing: 0.5em;
+}

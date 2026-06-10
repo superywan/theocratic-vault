@@ -1,0 +1,221 @@
+{
+  "main": {
+    "id": "af485a60c4a04b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebb60dd8b96bdf40",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc3255c12461b54e",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
+                "viewState": {
+                  "x": 1108.2127412642885,
+                  "y": 805.7181970196326,
+                  "zoom": -1.084062536259493
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "2026-06-19 성경에 담긴 보물"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "79bb9e695f270ae8",
+    "type": "split",
+    "children": [
+      {
+        "id": "195ea737d0d6f4dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e6a5b3bf6ba467",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6c9ddefe1fe01fa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "977ba8dd519109cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 519.5
+  },
+  "right": {
+    "id": "2e96fe15ede7d97e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0181e5175d9a4452",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92ab3b5ef61268c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-06-19 성경에 담긴 보물.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-06-19 성경에 담긴 보물"
+            }
+          },
+          {
+            "id": "746fec21737e3bd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-06-19 성경에 담긴 보물.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-06-19 성경에 담긴 보물"
+            }
+          },
+          {
+            "id": "e0ba89d3b5725906",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f6e4a0ac3eb55b6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fac3baf89dee4577",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of JW 방송—2026년 6월: 제159기 길르앗 졸업식"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 621.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "fc3255c12461b54e",
+  "lastOpenFiles": [
+    "bethel & cong/assignments",
+    "attachments/베델_봉사_학교_커리큘럼_개정_안내.zip",
+    "attachments/FW__베델_봉사학교_좌석표_가슴표.zip",
+    "attachments/Untitled.png",
+    "attachments/Untitled 15.png",
+    "attachments/Untitled 14.png",
+    "attachments/Untitled 13.png",
+    "attachments/Untitled 12.png",
+    "attachments/Untitled 11.png",
+    "attachments/Untitled 10.png",
+    "attachments/Untitled 9.png",
+    "attachments/Untitled 8.png",
+    "attachments/Untitled 7.png",
+    "attachments/국립중앙박물관_메소포타미아전.pdf",
+    "attachments/Wednesday_-_For_Student.pdf",
+    "attachments/Tuesday_-_For_Student.pdf",
+    "attachments/Thursday_-_For_Student.pdf",
+    "attachments/Saturday_-_For_Student.pdf",
+    "attachments/Monday_-_For_Student.pdf",
+    "attachments/Friday_-_For_Student.pdf",
+    "attachments/067400-KO__BDS_학교_일정표.pdf",
+    "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
+    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
+    "library/org-bible/그리스도인 그리스어 성경/40. 마태복음/마태복음 5장.md",
+    "templates/Morning Worship Template.md",
+    "bethel & cong/morning worships/2026-06-10.md",
+    "2026-06-10.md",
+    "bethel & cong/morning worships/2026/2026-05-14.md"
+  ]
+}

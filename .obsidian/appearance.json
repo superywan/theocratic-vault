@@ -1,0 +1,11 @@
+{
+  "baseFontSize": 13,
+  "textFontFamily": "RIDIBatang",
+  "interfaceFontFamily": "RIDIBatang",
+  "cssTheme": "Minimal",
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "style",
+    "canvas-text-center"
+  ]
+}
