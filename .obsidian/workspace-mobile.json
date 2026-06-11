@@ -1,27 +1,24 @@
 {
   "main": {
-    "id": "f540d52754fd73e0",
+    "id": "2cc96349cea3fdd1",
     "type": "split",
     "children": [
       {
-        "id": "083bf611fc5f1946",
+        "id": "305cdc970eb3ff4d",
         "type": "tabs",
         "children": [
           {
-            "id": "0b73791c9a6875e1",
+            "id": "547994dbb3b1137b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
-                "viewState": {
-                  "x": 745.5,
-                  "y": 685,
-                  "zoom": -1.1160523591334988
-                }
+                "file": "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "2026-06-19 성경에 담긴 보물"
+              "icon": "lucide-file",
+              "title": "JW 방송—2026년 6월: 제159기 길르앗 졸업식"
             }
           }
         ]
@@ -30,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f28d1886f24fb6d0",
+    "id": "dc1341e43e5ad71b",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "03c92f39c874c2a3",
+        "id": "de4f03b3c256f546",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -47,7 +44,7 @@
         }
       },
       {
-        "id": "cac8fb2770600ddb",
+        "id": "4c53165d73d3a19a",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -64,7 +61,7 @@
         }
       },
       {
-        "id": "8caefeefe5359feb",
+        "id": "aa2edc9ace28d38c",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -79,7 +76,7 @@
         }
       },
       {
-        "id": "26d499cc76fd4688",
+        "id": "d37932ce915a22b7",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -93,7 +90,7 @@
         }
       },
       {
-        "id": "04a1577cd588b0c2",
+        "id": "c9bd4d55a8b0fa75",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -106,11 +103,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "7d05d869ca3799b9",
+    "id": "745818b745af87b6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "1016030e28453bdb",
+        "id": "d0e13c072f5cda57",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -128,7 +125,7 @@
         }
       },
       {
-        "id": "349ce5670c12f944",
+        "id": "3c3dd83c26ad9f85",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -141,7 +138,7 @@
         }
       },
       {
-        "id": "80469825e9267258",
+        "id": "ebfb4b54a942691e",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -159,16 +156,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "03c92f39c874c2a3",
-  "lastOpenFiles": []
+  "active": "547994dbb3b1137b",
+  "lastOpenFiles": [
+    "library/org-videos/JW 방송/월간 프로그램/JW 방송—2018년 6월: 제144기 길르앗 졸업식.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—하나냐, 미사엘, 아사랴.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—므비보셋.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—여호수아와 갈렙.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—아벨.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—예레미야.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—아비가일.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—요셉.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—엘리야.md",
+    "library/org-videos/연재 동영상/여호와의 친구들에게 배우세요/여호와의 친구들에게 배우세요—드보라.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—부모님과 어떻게 대화를 잘할 수 있을까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—내 잘못을 어떻게 바로잡을 수 있을까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—괴롭힘을 당할 때 어떻게 대처할 수 있을까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—결혼 전에 성관계를 가지라는 압력을 어떻게 물리칠 수 있을까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—나는 누구일까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—나는 외모에 왜 이렇게 신경을 많이 쓰는 걸까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—성경이 나에게 어떻게 도움이 될까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—친구들의 압력을 어떻게 물리칠 수 있을까?.md",
+    "library/org-videos/연재 동영상/나의 십 대 이야기/나의 십 대 이야기—하느님을 믿는 게 합리적일까?.md",
+    "library/org-videos/연재 동영상/이 사람들을 본받으십시오/이 사람들을 본받으십시오—사라.md",
+    "library/org-videos/연재 동영상/이 사람들을 본받으십시오/이 사람들을 본받으십시오—사무엘.md",
+    "library/org-videos/연재 동영상/이 사람들을 본받으십시오/이 사람들을 본받으십시오—베드로.md",
+    "library/org-videos/연재 동영상/이 사람들을 본받으십시오/이 사람들을 본받으십시오—침례자 요한.md",
+    "library/org-videos/연재 동영상/이 사람들을 본받으십시오/이 사람들을 본받으십시오—복음 전파자 빌립.md",
+    "library/org-videos/연재 동영상/화이트보드 애니메이션/어떻게 돈을 잘 관리할 수 있을까?.md",
+    "library/org-videos/연재 동영상/화이트보드 애니메이션/우울한 감정을 이겨 내려면.md",
+    "library/org-videos/어린이/노래",
+    "library/org-videos/어린이/동영상 학습 자료",
+    "library/org-videos/우리의 조직/봉사의 직무를 수행하기 위해 조직됨",
+    "library/org-videos/우리의 조직/베델",
+    "library/org-videos/우리의 조직/무수혈 치료",
+    "library/org-videos/우리의 조직/세계 전역에서 들어온 보고",
+    "library/org-videos/우리의 조직/법적 상황",
+    "library/org-videos/우리의 조직/역사",
+    "library/org-videos/성경/성경 이야기",
+    "library/org-videos/성경/성경 원칙 적용하기"
+  ]
 }
