@@ -15,9 +15,9 @@
               "state": {
                 "file": "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
                 "viewState": {
-                  "x": 1108.2127412642885,
-                  "y": 805.7181970196326,
-                  "zoom": -1.084062536259493
+                  "x": 1247.748563679856,
+                  "y": 533.2287870521947,
+                  "zoom": -0.6647046404137668
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"나를 왕으로 삼으려고\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5
+    "width": 519.5,
+    "collapsed": true
   },
   "right": {
     "id": "2e96fe15ede7d97e",
@@ -184,11 +185,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "fc3255c12461b54e",
   "lastOpenFiles": [
+    "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/제프리 W. 잭슨: 성서 연구생을 도와주십시오—여호와와 우정을 길러 나가도록.md",
+    "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/2020 ‘항상 기뻐하십시오!’ 대회: 토요일 오후 회기—1부.md",
+    "bethel & cong/morning worships/2024/2024-12-16 Morning Worship (Fleming, Seth).md",
+    "library/org-videos/연재 동영상/용기 있게 하느님과 함께 걸으십시오—동영상/여호와께서는 용서해 주세요.md",
+    "library/org-videos/어린이/동영상 학습 자료/여호와께서는 용서해 주세요.md",
+    "library/org-videos/연재 동영상/여호와의 친구가 되세요—동영상/여호와께서는 용서해 주세요.md",
+    "bethel & cong/morning worships/2024/12.2024.md",
+    "library/org-videos/집회와 전도 활동/회중 집회/잘못된 정보로부터 나를 보호하려면 어떻게 해야 할까?.md",
+    "library/org-videos/프로그램과 행사/아침 숭배/존 에크란: 참종교는 그리스도의 제자들을 연합시킵니다 (예레미야 6:16).md",
+    "library/org-videos/JW 방송/월간 프로그램/JW 방송—2025년 7월.md",
+    "library/org-videos/프로그램과 행사/2021 믿음으로 강력해지십시오! 대회/2021 믿음으로 강력해지십시오! 대회: 금요일 오후 회기—1부.md",
+    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
     "bethel & cong/assignments",
     "attachments/베델_봉사_학교_커리큘럼_개정_안내.zip",
     "attachments/FW__베델_봉사학교_좌석표_가슴표.zip",
@@ -209,9 +223,7 @@
     "attachments/Saturday_-_For_Student.pdf",
     "attachments/Monday_-_For_Student.pdf",
     "attachments/Friday_-_For_Student.pdf",
-    "attachments/067400-KO__BDS_학교_일정표.pdf",
     "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
-    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
     "library/org-bible/그리스도인 그리스어 성경/40. 마태복음/마태복음 5장.md",
     "templates/Morning Worship Template.md",
     "bethel & cong/morning worships/2026-06-10.md",
