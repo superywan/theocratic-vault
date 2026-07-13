@@ -4,24 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ebb60dd8b96bdf40",
+        "id": "84eee85f119e8b54",
         "type": "tabs",
         "children": [
           {
-            "id": "fc3255c12461b54e",
+            "id": "ebf734617c041fbf",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
-                "viewState": {
-                  "x": 1247.748563679856,
-                  "y": 533.2287870521947,
-                  "zoom": -0.6647046404137668
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "2026-06-19 성경에 담긴 보물"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -189,8 +182,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc3255c12461b54e",
+  "active": "ebf734617c041fbf",
   "lastOpenFiles": [
+    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
+    "Untitled.canvas",
+    "Untitled.base",
     "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/제프리 W. 잭슨: 성서 연구생을 도와주십시오—여호와와 우정을 길러 나가도록.md",
     "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/2020 ‘항상 기뻐하십시오!’ 대회: 토요일 오후 회기—1부.md",
     "bethel & cong/morning worships/2024/2024-12-16 Morning Worship (Fleming, Seth).md",
@@ -202,7 +198,6 @@
     "library/org-videos/프로그램과 행사/아침 숭배/존 에크란: 참종교는 그리스도의 제자들을 연합시킵니다 (예레미야 6:16).md",
     "library/org-videos/JW 방송/월간 프로그램/JW 방송—2025년 7월.md",
     "library/org-videos/프로그램과 행사/2021 믿음으로 강력해지십시오! 대회/2021 믿음으로 강력해지십시오! 대회: 금요일 오후 회기—1부.md",
-    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
     "bethel & cong/assignments",
     "attachments/베델_봉사_학교_커리큘럼_개정_안내.zip",
     "attachments/FW__베델_봉사학교_좌석표_가슴표.zip",
@@ -222,7 +217,6 @@
     "attachments/Thursday_-_For_Student.pdf",
     "attachments/Saturday_-_For_Student.pdf",
     "attachments/Monday_-_For_Student.pdf",
-    "attachments/Friday_-_For_Student.pdf",
     "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
     "library/org-bible/그리스도인 그리스어 성경/40. 마태복음/마태복음 5장.md",
     "templates/Morning Worship Template.md",
