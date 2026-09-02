@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "84eee85f119e8b54",
+        "id": "5afdb6035a3b12f3",
         "type": "tabs",
         "children": [
           {
-            "id": "ebf734617c041fbf",
+            "id": "d1ec215f8bd448b5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "bethel & cong/morning worships/2026-09-03-Thursday.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-09-03-Thursday"
             }
           }
         ]
@@ -36,8 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
-                "autoReveal": false
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"나를 왕으로 삼으려고\"",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +71,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -74,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 519.5,
-    "collapsed": true
+    "width": 233.5
   },
   "right": {
     "id": "2e96fe15ede7d97e",
@@ -124,7 +132,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -167,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 621.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,22 +189,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebf734617c041fbf",
+  "active": "d1ec215f8bd448b5",
   "lastOpenFiles": [
-    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
+    "bethel & cong/morning worships/2026/2026-09-02-Wednesday.md",
+    "bethel & cong/morning worships/2026-09-03-Thursday.md",
+    "bethel & cong/morning worships/2026/2026-09-01-Tuesday.md",
+    "bethel & cong/morning worships/2026/2026-08-31-Monday.md",
+    "bethel & cong/morning worships/2026/2026-08-28-Friday.md",
+    "bethel & cong/morning worships/2026/2026-08-27-Thursday.md",
+    "bethel & cong/morning worships/2026/2026-08-26-Wednesday.md",
+    "bethel & cong/morning worships/2026/2026-08-03-Monday.md",
+    "bethel & cong/morning worships/2026/2026-08-20-Thursday.md",
+    "Untitled.md",
+    "bethel & cong/morning worships/2026/2026-08-25-Tuesday.md",
+    "Screenshot 2026-08-25 at 07.30.37.png",
+    "Screenshot 2026-08-25 at 07.30.26.png",
+    "bethel & cong/morning worships/2026/2026-08-18-Tuesday.md",
+    "bethel & cong/morning worships/2026/2026-08-24-Monday.md",
+    "Screenshot 2026-08-24 at 23.01.46.png",
+    "Screenshot 2026-08-24 at 22.59.18.png",
+    "bethel & cong/morning worships/2026/2026-08-17-Monday.md",
+    "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/2020 ‘항상 기뻐하십시오!’ 대회: 금요일 오후 회기—2부.md",
+    "bethel & cong/morning worships/2026/2026-08-07-Friday.md",
+    "bethel & cong/morning worships/2026/2026-08-06-Thursday.md",
+    "bethel & cong/morning worships/2026/2026-08-05-Wednesday.md",
+    "bethel & cong/morning worships/2026/2026-08-04-Tuesday.md",
+    "library/org-videos/집회와 전도 활동/우리의 봉사를 확장하는 방법/“그대의 가르침에 한결같이 주의를 기울이십시오”.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 15장.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 14장.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 13장.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 12장.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 11장.md",
+    "library/org-bible/히브리어-아람어 성경/05. 신명기/신명기 10장.md",
+    "library/org-bible/히브리어-아람어 성경/01. 창세기",
+    "library/org-bible/히브리어-아람어 성경",
+    "library/org-bible",
+    "library/org-bible/히브리어-아람어 성경/02. 출애굽기",
     "Untitled.canvas",
     "Untitled.base",
-    "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/제프리 W. 잭슨: 성서 연구생을 도와주십시오—여호와와 우정을 길러 나가도록.md",
-    "library/org-videos/프로그램과 행사/2020 ‘항상 기뻐하십시오!’ 대회/2020 ‘항상 기뻐하십시오!’ 대회: 토요일 오후 회기—1부.md",
-    "bethel & cong/morning worships/2024/2024-12-16 Morning Worship (Fleming, Seth).md",
-    "library/org-videos/연재 동영상/용기 있게 하느님과 함께 걸으십시오—동영상/여호와께서는 용서해 주세요.md",
-    "library/org-videos/어린이/동영상 학습 자료/여호와께서는 용서해 주세요.md",
-    "library/org-videos/연재 동영상/여호와의 친구가 되세요—동영상/여호와께서는 용서해 주세요.md",
-    "bethel & cong/morning worships/2024/12.2024.md",
-    "library/org-videos/집회와 전도 활동/회중 집회/잘못된 정보로부터 나를 보호하려면 어떻게 해야 할까?.md",
-    "library/org-videos/프로그램과 행사/아침 숭배/존 에크란: 참종교는 그리스도의 제자들을 연합시킵니다 (예레미야 6:16).md",
-    "library/org-videos/JW 방송/월간 프로그램/JW 방송—2025년 7월.md",
-    "library/org-videos/프로그램과 행사/2021 믿음으로 강력해지십시오! 대회/2021 믿음으로 강력해지십시오! 대회: 금요일 오후 회기—1부.md",
+    "bethel & cong/assignments/2026-06-19 성경에 담긴 보물.canvas",
     "bethel & cong/assignments",
     "attachments/베델_봉사_학교_커리큘럼_개정_안내.zip",
     "attachments/FW__베델_봉사학교_좌석표_가슴표.zip",
@@ -207,21 +237,7 @@
     "attachments/Untitled 13.png",
     "attachments/Untitled 12.png",
     "attachments/Untitled 11.png",
-    "attachments/Untitled 10.png",
-    "attachments/Untitled 9.png",
-    "attachments/Untitled 8.png",
-    "attachments/Untitled 7.png",
     "attachments/국립중앙박물관_메소포타미아전.pdf",
-    "attachments/Wednesday_-_For_Student.pdf",
-    "attachments/Tuesday_-_For_Student.pdf",
-    "attachments/Thursday_-_For_Student.pdf",
-    "attachments/Saturday_-_For_Student.pdf",
-    "attachments/Monday_-_For_Student.pdf",
-    "library/org-videos/JW 방송/월간 프로그램/JW 방송—2026년 6월: 제159기 길르앗 졸업식.md",
-    "library/org-bible/그리스도인 그리스어 성경/40. 마태복음/마태복음 5장.md",
-    "templates/Morning Worship Template.md",
-    "bethel & cong/morning worships/2026-06-10.md",
-    "2026-06-10.md",
-    "bethel & cong/morning worships/2026/2026-05-14.md"
+    "attachments/Wednesday_-_For_Student.pdf"
   ]
 }

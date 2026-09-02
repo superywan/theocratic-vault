@@ -1,4 +1,5 @@
 {
   "folder": "bethel & cong/morning worships",
-  "template": "templates/Morning Worship Template"
+  "template": "templates/Morning Worship Template",
+  "format": "YYYY-MM-DD-dddd"
 }
